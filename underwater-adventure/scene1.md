@@ -1,17 +1,18 @@
-# 🌊 Scene 1: The Descent
+# 🌊 Scene 1: The Shallows (Subnautica)
 
-You are a curious young diver aboard a small research vessel drifting above a vast stretch of open ocean. The surface sparkles in the sun, but below lies a world of mystery — coral cities, hidden caves, and ancient shipwrecks lost to time.
+You drop into the water beside your life pod, the surface gently rocking above you. The reef below is bright and calm, full of small fish and soft coral swaying in the current.
 
-You’ve always dreamed of discovering something no one else has ever seen.
+Your PDA chimes:
+> 💬 “Safe Shallows. Oxygen stable.”
 
-Today, while preparing your diving gear, your sonar scanner suddenly picks up a strange signal from deep below the waves…
+You gather a few basic materials, getting used to the rhythm of the water. Then suddenly—your scanner pings, locking onto a weak signal deeper below.
 
-> 💬 “If anyone can hear this… the current led me somewhere incredible… but I can’t get out…”
+> 💬 “Unidentified transmission — 120m.”
 
 What do you do?
 
-- 🤿 [Follow the signal and begin your dive into the depths](./scene2A.md)
+- 🤿 [Dive toward the signal](./scene2A.md)
 
-- 🐟 [Ignore the signal — it’s probably interference](./scene2B.md)
+- 🧰 [Keep gathering supplies nearby](./scene2B.md)
 
-- 📡 [Call the research captain and report the strange transmission](./scene2C.md)
+- 📡 [Check the radio first](./scene2C.md)
