@@ -8,6 +8,6 @@ But something even larger moves below.
 
 What do you do? 
 
-- ⬆️ [Retreat to safety](./sscene3C.md)
+- ⬆️ [Retreat to safety](./scene3C.md)
 
 - ⚓️ [Stay and observe the deeper water → Continue into the unknown](./scene4A.md)
