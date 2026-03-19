@@ -2,7 +2,7 @@
 
 You focus on the signal instead of the depth.
 
-Patiently, piece by piece, the transmission becomes clear. The logs, warnings, and observations all starting pointing to a coherent conclusion. 
+Patiently, piece by piece, the transmission becomes clear. The logs, warnings, and observations all pointing to a coherent conclusion. 
 
 > "It is not dangerous unless you make it dangerous."
 

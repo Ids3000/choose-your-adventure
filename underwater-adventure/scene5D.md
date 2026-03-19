@@ -2,10 +2,10 @@
 
 You hold position and fully commit to analyzing the signal. Your systems stabilize and begin filtering the interference.
 
-For the first time, the message comes through clearly:
-> 💬 “…it’s not hunting… it’s just here…”
+For the first time, the message comes through more clearly:
+> 💬 “It is not dangerous unless you...dangerous.”
 
-Your PDA logs the full transmission.
+Your PDA logs the longer transmission.
 
 This changes things.
 

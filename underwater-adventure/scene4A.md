@@ -1,6 +1,6 @@
 # ⚓️ Scene 4A: The Drop-Off 
 
-You hover at the edge of the kelp forest where the seafloor suddenly disappears. The light fades quicklu below, turning the water into a deep, endless blue.
+You hover at the edge of the kelp forest where the seafloor suddenly disappears. The light fades quickly below, turning the water into a deep, endless blue.
 
 Your PDA updates:
 > 💬 "Warning: Too deep." 

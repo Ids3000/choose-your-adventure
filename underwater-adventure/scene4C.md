@@ -5,7 +5,6 @@ You hesitate, but not long enough.
 The water grows darker faster than expected. The pressure feels heavier, and your surroundings blur slightly as you push past your comfort zone.
 
 Your PDA flashes:
-
 > 💬 "Warning: Oxygen low."
 
 Then...

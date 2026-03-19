@@ -4,7 +4,7 @@ You remain inside the life pod, listening to the quiet hum of the systems.
 
 After another moment, the radio clicks again.
 
-> 💬 "...running out of time..."
+> 💬 "...unless you..."
 
 The signal then fades.
 

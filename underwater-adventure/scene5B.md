@@ -11,7 +11,7 @@ You break the surface and pull yourself into the life pod.
 
 Silence.
 
-You made it—but barely.
+You made it but barely.
 
 What do you do?
 

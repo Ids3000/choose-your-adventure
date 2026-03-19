@@ -2,7 +2,7 @@
 
 You pry open the crate and find a damaged PDA along with a few supplies.
 
-> 💬 "If anyone finds this... don't stay here long..."
+> 💬 "...dangerous..make it.."
 
 The message cuts out.
 The Kelp shifts behind you. 

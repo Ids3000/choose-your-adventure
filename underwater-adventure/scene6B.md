@@ -6,7 +6,7 @@ The creature shifts, FAST this time.
 
 But not attacking... just reacting. 
 
-The water around you surges, and suddenly you're not longer in control of your position.
+The water around you surges, and suddenly you're no longer in control of your position.
 
 Your vision blurs. Then....... nothing. 
 
