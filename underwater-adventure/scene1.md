@@ -1,4 +1,4 @@
-# 🌊 Scene 1: The Shallows (Subnautica)
+# 🌊 Scene 1: The Shallows
 
 You drop into the water beside your life pod, the surface gently rocking above you. The reef below is bright and calm, full of small fish and soft coral swaying in the current.
 
