@@ -11,8 +11,8 @@ What do you do?
 
 What do you do?
 
-- 📦 [Open the crate and inspect it](./scene3A)
+- 📦 [Open the crate and inspect it](./scene3A.md)
 
-- 👀 [Focus on the nearby movement](./scene3B)
+- 👀 [Focus on the nearby movement](./scene3B.md)
 
-- ⬆️ [Play it safe and retreat](./scene3C)
+- ⬆️ [Play it safe and retreat](./scene3C.md)
