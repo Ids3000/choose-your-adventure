@@ -4,7 +4,7 @@ You scan the creature as it glides past. It slows slightly, reacting to your pre
 
 > 💬 "Fauna detected. Behavior: Territorial."
 
-More mmovement appears deeper in the kelp.
+More movement appears deeper in the kelp.
 
 What do you do? 
 
